@@ -1,0 +1,65 @@
+
+body h1 {
+  font-family: 'Pacifico', cursive;
+  color: rgb(250, 250, 250);
+  text-align: center;
+  margin: 55px;
+  font-size: 4.0em;
+}
+
+body h2{
+  color: #ffffff;
+  text-align: center;
+  margin: 60px;
+  font-size: 1.5em;
+}
+
+
+body a{
+  color: rgb(150, 10, 10);
+  font-weight: bold;
+}
+
+body a:hover{
+  color: rgb(0,0,0);
+  text-decoration: none;
+  font-size: 25px;
+}
+
+body button{
+  margin-top: 30px;
+}
+
+
+body footer{
+  margin-top: 140px;
+  color: #FFFFFF;
+}
+
+.boxes {
+  background-color: rgba(230, 230, 230, 0.8);
+  width: 250px;
+  height: 80px;
+  box-shadow: 5px 10px rgb(20, 20, 20);
+  border-radius: 50px;
+  margin: 30px auto;
+}
+
+.boxLoc{
+  padding-top: 20px;
+  font-size: 20px;
+  color: rgb(70, 70, 70);
+  text-align: center;
+}
+
+#info{
+  margin-top: 90px;
+}
+
+#location{
+  font-size: 15px;
+}
+
+#temp{
+  font-size: 30px;
+}
